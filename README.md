@@ -1,36 +1,47 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Praktikum 1 ##
 
-## Getting Started
+### Keterangan ###
+Setelah mengikuti langkah langkah hasil ada di file images\Praktikum 1 SS
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Praktikum 2 ##
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### Pertanyaan : Apa kekurangan yang mungkin terjadi jika menggunakan pendekatan pada praktikum 2 untuk menangani routing? ###
+Kekurangan dari pendekatan routing seperti pada Praktikum 2 adalah semakin besar aplikasinya, semakin banyak folder dan file page.tsx yang harus dibuat. Ini membuat struktur project menjadi sulit dikelola karena semakin kompleks. Jika terdapat banyak halaman dengan struktur routing yang berbeda beda, developer perlu mengatur banyak folder secara manual sehingga saat maintenance akan menjadi lebih sulit.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Praktikum 3 ##
 
-## Learn More
+### Keterangan ###
+Setelah mengikuti langkah langkah, hasil ada di file images\Praktikum 3 SS
 
-To learn more about Next.js, take a look at the following resources:
+### Todo 1 dan 2 ###
+Setelah mengerjakan Todo 1 dan 2 pada praktikum 3 beginilah ss hasil todo 1, todo 2, dan struktur akhir
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+**ss hasil todo 1**
+Gambar ini hasil setelah mengubah blogs menjadi dinamic route
+![TODO 1](./images/Praktikum%203%20SS/ss-todo1.png)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+**ss hasil todo 2**
+Gambar ini hasil setelah penambahan struktur /review/[reviewId]
+![TODO 2](./images/Praktikum%203%20SS/ss-todo2.png)
 
-## Deploy on Vercel
+**ss struktur akhir**
+beginilah tampak akhir struktur app
+![Struktur Akhir](./images/Praktikum%203%20SS/ss-hasil-todo.png)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## Praktikum 4 ##
+
+### Keterangan ###
+Setelah mengikuti modul didapatkan hasil seperti pada file image\Praktikum 4 SS
+
+### Todo ###
+Beginilah tampilan home setelah menambahkan link
+![Todo Praktikum 4](./images/Praktikum%204%20SS/ss-praktikum4.png)
+
+
+
