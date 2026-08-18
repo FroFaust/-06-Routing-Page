@@ -30,6 +30,7 @@ Gambar ini hasil setelah penambahan struktur /review/[reviewId]
 
 **ss struktur akhir**
 beginilah tampak akhir struktur app
+
 ![Struktur Akhir](./images/Praktikum%203%20SS/ss-hasil-todo.png)
 
 ---
@@ -40,7 +41,10 @@ beginilah tampak akhir struktur app
 Setelah mengikuti modul didapatkan hasil seperti pada file image\Praktikum 4 SS
 
 ### Todo ###
-Beginilah tampilan home setelah menambahkan link
+
+**ss Praktikum 4 setelah Todo**
+Beginilah tampak akhir hasil halaman utama setelah kita menambahkan link di app/page.tsx
+
 ![Todo Praktikum 4](./images/Praktikum%204%20SS/ss-praktikum4.png)
 
 
